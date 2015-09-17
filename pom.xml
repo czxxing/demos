@@ -4,4 +4,7 @@
   <artifactId>AllDemos</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>FastJsonDemo</module>
+  </modules>
 </project>
