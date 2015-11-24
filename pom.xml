@@ -6,5 +6,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>FastJsonDemo</module>
+  	<module>littleTestAndDemo</module>
   </modules>
 </project>
